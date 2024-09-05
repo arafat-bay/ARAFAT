@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "JACK-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "61555163956245",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61555163956245",
+    "61565433414901"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
